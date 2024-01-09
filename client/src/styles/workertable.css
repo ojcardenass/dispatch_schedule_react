@@ -1,0 +1,17 @@
+.worker-row {
+    vertical-align: "middle";
+};
+
+.container{
+    width:50vw;
+    height:50vh;
+    position: absolute;
+ }
+ .child{
+    Width: 30vw;
+    Height: 25vh;
+    position: absolute;
+    left:50%;
+    top:40%;
+    transform:translate(-50%, -50%);
+ }
